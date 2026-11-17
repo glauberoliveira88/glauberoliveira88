@@ -15,7 +15,7 @@ Atualmente estudante de Análise e Desenvolvimento de Sistemas.
 
 ## ▶ FRAMEWORKS
 
-![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF0055) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=FF0055) ![Django](https://img.shields.io/badge/DJANGO_%28ESTUDANDO%29-000000?style=for-the-badge&logo=django&logoColor=FF0055) ![LangChain](https://img.shields.io/badge/LANGCHAIN_%28ESTUDANDO%29-000000?style=for-the-badge&logo=langchain&logoColor=FF0055)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF0055) ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=FF0055) ![Django](https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=FF0055) ![LangChain](https://img.shields.io/badge/LANGCHAIN_%28ESTUDANDO%29-000000?style=for-the-badge&logo=langchain&logoColor=FF0055)
 
 ## ▶ BANCOS DE DADOS
 
